@@ -1,2 +1,2 @@
 # Chatbot-py4ling
-Final exam 2022
+Exam project 2022 supervised by Matthijs Westera
